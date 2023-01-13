@@ -1,0 +1,6 @@
+﻿VAR X 0
+VAR Y 1
+IF X eq 0 
+    [ PRINT X ]
+ELSE 
+    [ PRINT Y ] 

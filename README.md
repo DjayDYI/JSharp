@@ -69,6 +69,7 @@ Also a for loop ...
 FOR x 0 .. 5 
   [ PRINT ]
 ```
+This is a if ... if in case
 ```
 VAR X 0
 VAR Y 1

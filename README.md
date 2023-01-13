@@ -1,8 +1,7 @@
 # JSharp
 Learning C# is fun what about J#
 
-How to use the JStack
-
+## JStack
 ```
      push 3
      push 2
@@ -33,7 +32,7 @@ How to use the JStack
      lt branch for
      halt
  ```
-
+## Jsharp
 Here how to use the language!
 
 Name a variable

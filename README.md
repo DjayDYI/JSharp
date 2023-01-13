@@ -73,8 +73,13 @@ This is a if ... if in case
 VAR X 0
 VAR Y 1
 IF X eq 0 
-  [ PRINT X ]
+[ 
+     ADD X 2
+]
 ELSE 
-  [ PRINT Y ] 
+[
+     ADD X Y 
+] 
+PRINT X
 ```
  
